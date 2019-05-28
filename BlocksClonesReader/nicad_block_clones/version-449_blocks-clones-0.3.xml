@@ -1,0 +1,262 @@
+<clones>
+<systeminfo  system="version-449" granularity="blocks" threshold="30%" minlines="5" maxlines="500"/>
+<classinfo npcs="1214" nclones="68" nfragments="115" npairs="99" nclasses="47"/>
+<runinfo ncompares="116023" cputime="12"/>
+
+<class id="1" nlines="17" nfragments="2">
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/c.c.ifdefed" startline="836" endline="850" pcid="185"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/c.c.ifdefed" startline="514" endline="525" pcid="141"></source>
+</class>
+
+<class id="2" nlines="17" nfragments="2">
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/c.c.ifdefed" startline="501" endline="513" pcid="139"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/Test/local.c.ifdefed" startline="6" endline="15" pcid="1137"></source>
+</class>
+
+<class id="3" nlines="16" nfragments="2">
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/vim.c.ifdefed" startline="80" endline="92" pcid="1184"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/vim.c.ifdefed" startline="49" endline="60" pcid="1177"></source>
+</class>
+
+<class id="4" nlines="15" nfragments="3">
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/php.c.ifdefed" startline="42" endline="54" pcid="758"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/asp.c.ifdefed" startline="52" endline="62" pcid="80"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/php.c.ifdefed" startline="56" endline="66" pcid="760"></source>
+</class>
+
+<class id="5" nlines="15" nfragments="3">
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/asp.c.ifdefed" startline="30" endline="40" pcid="72"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/asp.c.ifdefed" startline="41" endline="51" pcid="76"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/asp.c.ifdefed" startline="43" endline="51" pcid="77"></source>
+</class>
+
+<class id="6" nlines="14" nfragments="5">
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/vim.c.ifdefed" startline="66" endline="76" pcid="1181"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/asp.c.ifdefed" startline="63" endline="73" pcid="83"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/asp.c.ifdefed" startline="85" endline="95" pcid="89"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/asp.c.ifdefed" startline="74" endline="84" pcid="86"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/vim.c.ifdefed" startline="82" endline="92" pcid="1185"></source>
+</class>
+
+<class id="7" nlines="13" nfragments="2">
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/c.c.ifdefed" startline="891" endline="901" pcid="194"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/c.c.ifdefed" startline="516" endline="524" pcid="142"></source>
+</class>
+
+<class id="8" nlines="12" nfragments="3">
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/sql.c.ifdefed" startline="170" endline="179" pcid="1043"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/eiffel.c.ifdefed" startline="387" endline="395" pcid="403"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/eiffel.c.ifdefed" startline="378" endline="386" pcid="401"></source>
+</class>
+
+<class id="9" nlines="11" nfragments="4">
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/asp.c.ifdefed" startline="87" endline="95" pcid="90"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/asp.c.ifdefed" startline="76" endline="84" pcid="87"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/asp.c.ifdefed" startline="54" endline="62" pcid="81"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/asp.c.ifdefed" startline="65" endline="73" pcid="84"></source>
+</class>
+
+<class id="10" nlines="10" nfragments="2">
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/get.c.ifdefed" startline="236" endline="243" pcid="588"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/get.c.ifdefed" startline="244" endline="251" pcid="590"></source>
+</class>
+
+<class id="11" nlines="10" nfragments="2">
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/eiffel.c.ifdefed" startline="790" endline="798" pcid="456"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/sql.c.ifdefed" startline="133" endline="138" pcid="1035"></source>
+</class>
+
+<class id="12" nlines="10" nfragments="2">
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/c.c.ifdefed" startline="1877" endline="1891" pcid="365"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/c.c.ifdefed" startline="1868" endline="1876" pcid="364"></source>
+</class>
+
+<class id="13" nlines="10" nfragments="2">
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/vim.c.ifdefed" startline="69" endline="76" pcid="1182"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/vim.c.ifdefed" startline="53" endline="60" pcid="1178"></source>
+</class>
+
+<class id="14" nlines="9" nfragments="2">
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/argproc.c.ifdefed" startline="49" endline="55" pcid="5"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/argproc.c.ifdefed" startline="59" endline="65" pcid="8"></source>
+</class>
+
+<class id="15" nlines="9" nfragments="2">
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/args.c.ifdefed" startline="130" endline="137" pcid="60"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/args.c.ifdefed" startline="123" endline="129" pcid="59"></source>
+</class>
+
+<class id="16" nlines="9" nfragments="2">
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/erlang.c.ifdefed" startline="27" endline="33" pcid="531"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/python.c.ifdefed" startline="59" endline="65" pcid="775"></source>
+</class>
+
+<class id="17" nlines="8" nfragments="3">
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/readtags.c.ifdefed" startline="43" endline="48" pcid="853"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/readtags.c.ifdefed" startline="49" endline="54" pcid="855"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/readtags.c.ifdefed" startline="117" endline="122" pcid="869"></source>
+</class>
+
+<class id="18" nlines="8" nfragments="3">
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/readtags.c.ifdefed" startline="486" endline="491" pcid="939"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/readtags.c.ifdefed" startline="459" endline="464" pcid="933"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/readtags.c.ifdefed" startline="453" endline="458" pcid="931"></source>
+</class>
+
+<class id="19" nlines="8" nfragments="2">
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/args.c.ifdefed" startline="99" endline="105" pcid="56"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/args.c.ifdefed" startline="49" endline="55" pcid="46"></source>
+</class>
+
+<class id="20" nlines="8" nfragments="2">
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/sql.c.ifdefed" startline="152" endline="157" pcid="1039"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/eiffel.c.ifdefed" startline="243" endline="248" pcid="380"></source>
+</class>
+
+<class id="21" nlines="8" nfragments="2">
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/c.c.ifdefed" startline="1458" endline="1464" pcid="288"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/c.c.ifdefed" startline="990" endline="995" pcid="211"></source>
+</class>
+
+<class id="22" nlines="7" nfragments="2">
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/lisp.c.ifdefed" startline="42" endline="47" pcid="637"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/lisp.c.ifdefed" startline="57" endline="62" pcid="640"></source>
+</class>
+
+<class id="23" nlines="7" nfragments="3">
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/erlang.c.ifdefed" startline="45" endline="50" pcid="536"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/erlang.c.ifdefed" startline="56" endline="60" pcid="538"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/erlang.c.ifdefed" startline="51" endline="55" pcid="537"></source>
+</class>
+
+<class id="24" nlines="7" nfragments="2">
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/strlist.c.ifdefed" startline="117" endline="122" pcid="1118"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/strlist.c.ifdefed" startline="111" endline="115" pcid="1117"></source>
+</class>
+
+<class id="25" nlines="7" nfragments="2">
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/c.c.ifdefed" startline="978" endline="982" pcid="208"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/c.c.ifdefed" startline="973" endline="977" pcid="206"></source>
+</class>
+
+<class id="26" nlines="7" nfragments="3">
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/c.c.ifdefed" startline="931" endline="936" pcid="199"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/make.c.ifdefed" startline="29" endline="34" pcid="683"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/read.c.ifdefed" startline="60" endline="65" pcid="805"></source>
+</class>
+
+<class id="27" nlines="7" nfragments="2">
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/keyword.c.ifdefed" startline="62" endline="67" pcid="620"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/keyword.c.ifdefed" startline="75" endline="79" pcid="624"></source>
+</class>
+
+<class id="28" nlines="6" nfragments="2">
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/pascal.c.ifdefed" startline="98" endline="101" pcid="717"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/pascal.c.ifdefed" startline="102" endline="105" pcid="719"></source>
+</class>
+
+<class id="29" nlines="6" nfragments="3">
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/readtags.c.ifdefed" startline="481" endline="485" pcid="938"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/readtags.c.ifdefed" startline="476" endline="480" pcid="937"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/readtags.c.ifdefed" startline="465" endline="469" pcid="935"></source>
+</class>
+
+<class id="30" nlines="6" nfragments="2">
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/c.c.ifdefed" startline="1233" endline="1237" pcid="253"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/c.c.ifdefed" startline="1021" endline="1024" pcid="217"></source>
+</class>
+
+<class id="31" nlines="5" nfragments="2">
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/c.c.ifdefed" startline="1652" endline="1655" pcid="325"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/c.c.ifdefed" startline="1648" endline="1651" pcid="324"></source>
+</class>
+
+<class id="32" nlines="5" nfragments="2">
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/eiffel.c.ifdefed" startline="365" endline="368" pcid="398"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/verilog.c.ifdefed" startline="89" endline="92" pcid="1147"></source>
+</class>
+
+<class id="33" nlines="5" nfragments="3">
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/python.c.ifdefed" startline="54" endline="57" pcid="774"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/erlang.c.ifdefed" startline="22" endline="25" pcid="530"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/sml.c.ifdefed" startline="50" endline="53" pcid="1001"></source>
+</class>
+
+<class id="34" nlines="5" nfragments="3">
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/eiffel.c.ifdefed" startline="438" endline="441" pcid="409"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/eiffel.c.ifdefed" startline="448" endline="451" pcid="410"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/sql.c.ifdefed" startline="211" endline="214" pcid="1049"></source>
+</class>
+
+<class id="35" nlines="5" nfragments="2">
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/eiffel.c.ifdefed" startline="570" endline="574" pcid="422"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/eiffel.c.ifdefed" startline="681" endline="684" pcid="437"></source>
+</class>
+
+<class id="36" nlines="5" nfragments="2">
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/eiffel.c.ifdefed" startline="585" endline="588" pcid="425"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/sql.c.ifdefed" startline="322" endline="325" pcid="1070"></source>
+</class>
+
+<class id="37" nlines="5" nfragments="3">
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/argproc.c.ifdefed" startline="50" endline="53" pcid="6"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/argproc.c.ifdefed" startline="60" endline="63" pcid="9"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/argproc.c.ifdefed" startline="98" endline="101" pcid="16"></source>
+</class>
+
+<class id="38" nlines="5" nfragments="2">
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/c.c.ifdefed" startline="1225" endline="1228" pcid="252"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/c.c.ifdefed" startline="1219" endline="1222" pcid="251"></source>
+</class>
+
+<class id="39" nlines="5" nfragments="2">
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/php.c.ifdefed" startline="37" endline="40" pcid="757"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/ruby.c.ifdefed" startline="92" endline="95" pcid="963"></source>
+</class>
+
+<class id="40" nlines="5" nfragments="2">
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/beta.c.ifdefed" startline="169" endline="172" pcid="122"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/beta.c.ifdefed" startline="165" endline="168" pcid="121"></source>
+</class>
+
+<class id="41" nlines="5" nfragments="2">
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/beta.c.ifdefed" startline="98" endline="101" pcid="110"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/beta.c.ifdefed" startline="93" endline="96" pcid="109"></source>
+</class>
+
+<class id="42" nlines="5" nfragments="6">
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/argproc.c.ifdefed" startline="309" endline="312" pcid="40"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/argproc.c.ifdefed" startline="305" endline="308" pcid="39"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/argproc.c.ifdefed" startline="282" endline="285" pcid="36"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/argproc.c.ifdefed" startline="272" endline="275" pcid="35"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/argproc.c.ifdefed" startline="265" endline="268" pcid="34"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/argproc.c.ifdefed" startline="259" endline="262" pcid="33"></source>
+</class>
+
+<class id="43" nlines="5" nfragments="3">
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/argproc.c.ifdefed" startline="167" endline="170" pcid="27"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/argproc.c.ifdefed" startline="132" endline="135" pcid="23"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/argproc.c.ifdefed" startline="126" endline="129" pcid="22"></source>
+</class>
+
+<class id="44" nlines="5" nfragments="2">
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/vstring.c.ifdefed" startline="61" endline="64" pcid="1198"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/vstring.c.ifdefed" startline="57" endline="60" pcid="1197"></source>
+</class>
+
+<class id="45" nlines="5" nfragments="2">
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/vim.c.ifdefed" startline="25" endline="28" pcid="1173"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/vim.c.ifdefed" startline="21" endline="24" pcid="1172"></source>
+</class>
+
+<class id="46" nlines="5" nfragments="2">
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/readtags.c.ifdefed" startline="314" endline="317" pcid="902"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/readtags.c.ifdefed" startline="434" endline="437" pcid="926"></source>
+</class>
+
+<class id="47" nlines="5" nfragments="2">
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/sort.c.ifdefed" startline="77" endline="80" pcid="1023"></source>
+<source file="/Users/ckr353/MondalExperiment/subjectsystems/ctags/repository/version-449/sort.c.ifdefed" startline="73" endline="76" pcid="1022"></source>
+</class>
+
+</clones>

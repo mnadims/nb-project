@@ -1,0 +1,933 @@
+++++++++++++++++++++++++
+cTags Change File(48): regex.c 394 394
+iClone File: regex.c 389 394
+++++++++++++++++++++++++
+cTags Change File(64): readtags.c 316 317
+iClone File: readtags.c 317 322
+++++++++++++++++++++++++
+cTags Change File(64): readtags.c 324 325
+iClone File: readtags.c 325 330
+++++++++++++++++++++++++
+cTags Change File(88): eiffel.c 231 231
+iClone File: eiffel.c 218 231
+++++++++++++++++++++++++
+cTags Change File(95): asp.c 34 34
+iClone File: asp.c 30 40
+++++++++++++++++++++++++
+cTags Change File(95): asp.c 37 37
+iClone File: asp.c 30 40
+++++++++++++++++++++++++
+cTags Change File(95): asp.c 40 40
+iClone File: asp.c 30 40
+++++++++++++++++++++++++
+cTags Change File(95): asp.c 45 45
+iClone File: asp.c 41 51
+++++++++++++++++++++++++
+cTags Change File(95): asp.c 48 48
+iClone File: asp.c 41 51
+++++++++++++++++++++++++
+cTags Change File(95): asp.c 51 51
+iClone File: asp.c 41 51
+++++++++++++++++++++++++
+cTags Change File(95): asp.c 62 62
+iClone File: asp.c 52 67
+++++++++++++++++++++++++
+cTags Change File(95): asp.c 62 62
+iClone File: asp.c 62 67
+++++++++++++++++++++++++
+cTags Change File(95): asp.c 62 62
+iClone File: asp.c 52 71
+++++++++++++++++++++++++
+cTags Change File(95): main.c 207 208
+iClone File: main.c 208 213
+++++++++++++++++++++++++
+cTags Change File(95): main.c 215 216
+iClone File: main.c 216 221
+++++++++++++++++++++++++
+cTags Change File(95): strlist.c 97 97
+iClone File: strlist.c 91 97
+++++++++++++++++++++++++
+cTags Change File(96): main.c 176 362
+iClone File: main.c 208 213
+++++++++++++++++++++++++
+cTags Change File(96): main.c 176 362
+iClone File: main.c 216 221
+++++++++++++++++++++++++
+cTags Change File(155): ruby.c 20 20
+iClone File: ruby.c 15 26
+++++++++++++++++++++++++
+cTags Change File(155): ruby.c 22 31
+iClone File: ruby.c 15 26
+++++++++++++++++++++++++
+cTags Change File(155): ruby.c 22 31
+iClone File: ruby.c 31 63
+++++++++++++++++++++++++
+cTags Change File(155): ruby.c 35 35
+iClone File: ruby.c 31 63
+++++++++++++++++++++++++
+cTags Change File(155): ruby.c 52 54
+iClone File: ruby.c 31 63
+++++++++++++++++++++++++
+cTags Change File(155): ruby.c 52 54
+iClone File: ruby.c 37 52
+++++++++++++++++++++++++
+cTags Change File(155): ruby.c 52 54
+iClone File: ruby.c 47 52
+++++++++++++++++++++++++
+cTags Change File(155): ruby.c 57 57
+iClone File: ruby.c 31 63
+++++++++++++++++++++++++
+cTags Change File(160): python.c 14 31
+iClone File: python.c 29 45
+++++++++++++++++++++++++
+cTags Change File(160): python.c 14 31
+iClone File: python.c 24 49
+++++++++++++++++++++++++
+cTags Change File(160): python.c 14 31
+iClone File: python.c 30 38
+++++++++++++++++++++++++
+cTags Change File(160): python.c 14 31
+iClone File: python.c 30 38
+++++++++++++++++++++++++
+cTags Change File(160): python.c 14 31
+iClone File: python.c 30 49
+++++++++++++++++++++++++
+cTags Change File(160): python.c 34 35
+iClone File: python.c 29 45
+++++++++++++++++++++++++
+cTags Change File(160): python.c 34 35
+iClone File: python.c 24 49
+++++++++++++++++++++++++
+cTags Change File(160): python.c 34 35
+iClone File: python.c 32 38
+++++++++++++++++++++++++
+cTags Change File(160): python.c 34 35
+iClone File: python.c 30 38
+++++++++++++++++++++++++
+cTags Change File(160): python.c 34 35
+iClone File: python.c 30 38
+++++++++++++++++++++++++
+cTags Change File(160): python.c 34 35
+iClone File: python.c 30 49
+++++++++++++++++++++++++
+cTags Change File(160): python.c 34 35
+iClone File: python.c 32 37
+++++++++++++++++++++++++
+cTags Change File(160): python.c 37 43
+iClone File: python.c 29 45
+++++++++++++++++++++++++
+cTags Change File(160): python.c 37 43
+iClone File: python.c 24 49
+++++++++++++++++++++++++
+cTags Change File(160): python.c 37 43
+iClone File: python.c 32 38
+++++++++++++++++++++++++
+cTags Change File(160): python.c 37 43
+iClone File: python.c 43 49
+++++++++++++++++++++++++
+cTags Change File(160): python.c 37 43
+iClone File: python.c 30 38
+++++++++++++++++++++++++
+cTags Change File(160): python.c 37 43
+iClone File: python.c 41 49
+++++++++++++++++++++++++
+cTags Change File(160): python.c 37 43
+iClone File: python.c 40 45
+++++++++++++++++++++++++
+cTags Change File(160): python.c 37 43
+iClone File: python.c 30 38
+++++++++++++++++++++++++
+cTags Change File(160): python.c 37 43
+iClone File: python.c 41 49
+++++++++++++++++++++++++
+cTags Change File(160): python.c 37 43
+iClone File: python.c 30 49
+++++++++++++++++++++++++
+cTags Change File(160): python.c 37 43
+iClone File: python.c 32 37
+++++++++++++++++++++++++
+cTags Change File(160): python.c 37 43
+iClone File: python.c 43 48
+++++++++++++++++++++++++
+cTags Change File(160): python.c 45 46
+iClone File: python.c 29 45
+++++++++++++++++++++++++
+cTags Change File(160): python.c 45 46
+iClone File: python.c 24 49
+++++++++++++++++++++++++
+cTags Change File(160): python.c 45 46
+iClone File: python.c 43 49
+++++++++++++++++++++++++
+cTags Change File(160): python.c 45 46
+iClone File: python.c 41 49
+++++++++++++++++++++++++
+cTags Change File(160): python.c 45 46
+iClone File: python.c 40 45
+++++++++++++++++++++++++
+cTags Change File(160): python.c 45 46
+iClone File: python.c 41 49
+++++++++++++++++++++++++
+cTags Change File(160): python.c 45 46
+iClone File: python.c 30 49
+++++++++++++++++++++++++
+cTags Change File(160): python.c 45 46
+iClone File: python.c 43 48
+++++++++++++++++++++++++
+cTags Change File(160): python.c 48 60
+iClone File: python.c 24 49
+++++++++++++++++++++++++
+cTags Change File(160): python.c 48 60
+iClone File: python.c 43 49
+++++++++++++++++++++++++
+cTags Change File(160): python.c 48 60
+iClone File: python.c 41 49
+++++++++++++++++++++++++
+cTags Change File(160): python.c 48 60
+iClone File: python.c 41 49
+++++++++++++++++++++++++
+cTags Change File(160): python.c 48 60
+iClone File: python.c 30 49
+++++++++++++++++++++++++
+cTags Change File(160): python.c 48 60
+iClone File: python.c 43 48
+++++++++++++++++++++++++
+cTags Change File(161): routines.c 166 167
+iClone File: routines.c 167 172
+++++++++++++++++++++++++
+cTags Change File(161): routines.c 173 175
+iClone File: routines.c 175 180
+++++++++++++++++++++++++
+cTags Change File(162): readtags.c 317 332
+iClone File: readtags.c 318 323
+++++++++++++++++++++++++
+cTags Change File(162): readtags.c 317 332
+iClone File: readtags.c 326 331
+++++++++++++++++++++++++
+cTags Change File(223): lregex.c 128 130
+iClone File: lregex.c 130 145
+++++++++++++++++++++++++
+cTags Change File(255): fortran.c 715 715
+iClone File: fortran.c 707 715
+++++++++++++++++++++++++
+cTags Change File(258): vim.c 69 69
+iClone File: vim.c 64 75
+++++++++++++++++++++++++
+cTags Change File(259): fortran.c 708 708
+iClone File: fortran.c 707 715
+++++++++++++++++++++++++
+cTags Change File(259): fortran.c 713 720
+iClone File: fortran.c 707 715
+++++++++++++++++++++++++
+cTags Change File(259): fortran.c 780 785
+iClone File: fortran.c 774 782
+++++++++++++++++++++++++
+cTags Change File(261): php.c 32 34
+iClone File: php.c 27 34
+++++++++++++++++++++++++
+cTags Change File(261): php.c 32 34
+iClone File: php.c 17 34
+++++++++++++++++++++++++
+cTags Change File(264): erlang.c 40 40
+iClone File: erlang.c 39 43
+++++++++++++++++++++++++
+cTags Change File(264): erlang.c 43 45
+iClone File: erlang.c 39 43
+++++++++++++++++++++++++
+cTags Change File(264): erlang.c 57 67
+iClone File: erlang.c 61 65
+++++++++++++++++++++++++
+cTags Change File(272): lregex.c 131 131
+iClone File: lregex.c 131 146
+++++++++++++++++++++++++
+cTags Change File(272): lregex.c 388 388
+iClone File: lregex.c 388 394
+++++++++++++++++++++++++
+cTags Change File(274): lregex.c 407 407
+iClone File: lregex.c 407 413
+++++++++++++++++++++++++
+cTags Change File(283): fortran.c 18 18
+iClone File: fortran.c 16 20
+++++++++++++++++++++++++
+cTags Change File(288): sql.c 189 190
+iClone File: sql.c 190 198
+++++++++++++++++++++++++
+cTags Change File(290): fortran.c 595 596
+iClone File: fortran.c 596 609
+++++++++++++++++++++++++
+cTags Change File(290): fortran.c 668 668
+iClone File: fortran.c 666 673
+++++++++++++++++++++++++
+cTags Change File(290): fortran.c 673 673
+iClone File: fortran.c 666 673
+++++++++++++++++++++++++
+cTags Change File(328): sh.c 25 26
+iClone File: sh.c 25 37
+++++++++++++++++++++++++
+cTags Change File(328): sh.c 31 31
+iClone File: sh.c 25 37
+++++++++++++++++++++++++
+cTags Change File(328): sh.c 33 33
+iClone File: sh.c 32 37
+++++++++++++++++++++++++
+cTags Change File(328): sh.c 33 33
+iClone File: sh.c 25 37
+++++++++++++++++++++++++
+cTags Change File(328): sh.c 33 33
+iClone File: sh.c 32 40
+++++++++++++++++++++++++
+cTags Change File(329): fortran.c 669 675
+iClone File: fortran.c 667 679
+++++++++++++++++++++++++
+cTags Change File(337): lregex.c 384 384
+iClone File: lregex.c 384 390
+++++++++++++++++++++++++
+cTags Change File(337): lregex.c 408 408
+iClone File: lregex.c 408 414
+++++++++++++++++++++++++
+cTags Change File(338): eiffel.c 27 27
+iClone File: eiffel.c 23 27
+++++++++++++++++++++++++
+cTags Change File(338): sql.c 16 16
+iClone File: sql.c 12 16
+++++++++++++++++++++++++
+cTags Change File(341): php.c 43 43
+iClone File: php.c 37 43
+++++++++++++++++++++++++
+cTags Change File(379): sql.c 185 185
+iClone File: sql.c 182 193
+++++++++++++++++++++++++
+cTags Change File(382): sql.c 190 191
+iClone File: sql.c 191 199
+++++++++++++++++++++++++
+cTags Change File(383): vim.c 53 53
+iClone File: vim.c 47 59
+++++++++++++++++++++++++
+cTags Change File(394): php.c 57 57
+iClone File: php.c 56 61
+++++++++++++++++++++++++
+cTags Change File(394): php.c 57 57
+iClone File: php.c 56 62
+++++++++++++++++++++++++
+cTags Change File(394): php.c 57 57
+iClone File: php.c 55 61
+++++++++++++++++++++++++
+cTags Change File(416): strlist.c 81 82
+iClone File: strlist.c 81 87
+++++++++++++++++++++++++
+cTags Change File(416): strlist.c 84 84
+iClone File: strlist.c 81 87
+++++++++++++++++++++++++
+cTags Change File(416): strlist.c 86 87
+iClone File: strlist.c 81 87
+++++++++++++++++++++++++
+cTags Change File(416): strlist.c 89 90
+iClone File: strlist.c 89 95
+++++++++++++++++++++++++
+cTags Change File(416): strlist.c 92 92
+iClone File: strlist.c 89 95
+++++++++++++++++++++++++
+cTags Change File(416): strlist.c 94 95
+iClone File: strlist.c 89 95
+++++++++++++++++++++++++
+cTags Change File(422): ruby.c 24 43
+iClone File: ruby.c 38 46
+++++++++++++++++++++++++
+cTags Change File(422): ruby.c 24 43
+iClone File: ruby.c 38 64
+++++++++++++++++++++++++
+cTags Change File(422): ruby.c 24 43
+iClone File: ruby.c 38 64
+++++++++++++++++++++++++
+cTags Change File(422): ruby.c 24 43
+iClone File: ruby.c 40 45
+++++++++++++++++++++++++
+cTags Change File(422): ruby.c 24 43
+iClone File: ruby.c 38 46
+++++++++++++++++++++++++
+cTags Change File(422): ruby.c 45 79
+iClone File: ruby.c 38 46
+++++++++++++++++++++++++
+cTags Change File(422): ruby.c 45 79
+iClone File: ruby.c 49 57
+++++++++++++++++++++++++
+cTags Change File(422): ruby.c 45 79
+iClone File: ruby.c 38 64
+++++++++++++++++++++++++
+cTags Change File(422): ruby.c 45 79
+iClone File: ruby.c 38 64
+++++++++++++++++++++++++
+cTags Change File(422): ruby.c 45 79
+iClone File: ruby.c 48 57
+++++++++++++++++++++++++
+cTags Change File(422): ruby.c 45 79
+iClone File: ruby.c 40 45
+++++++++++++++++++++++++
+cTags Change File(422): ruby.c 45 79
+iClone File: ruby.c 51 56
+++++++++++++++++++++++++
+cTags Change File(422): ruby.c 45 79
+iClone File: ruby.c 59 64
+++++++++++++++++++++++++
+cTags Change File(422): ruby.c 45 79
+iClone File: ruby.c 38 46
+++++++++++++++++++++++++
+cTags Change File(422): ruby.c 45 79
+iClone File: ruby.c 49 57
+++++++++++++++++++++++++
+cTags Change File(442): eiffel.c 23 24
+iClone File: eiffel.c 23 27
+++++++++++++++++++++++++
+cTags Change File(442): eiffel.c 414 426
+iClone File: eiffel.c 404 415
+++++++++++++++++++++++++
+cTags Change File(442): sql.c 12 13
+iClone File: sql.c 12 16
+++++++++++++++++++++++++
+cTags Change File(442): sql.c 196 200
+iClone File: sql.c 186 197
+++++++++++++++++++++++++
+cTags Change File(460): sql.c 12 13
+iClone File: sql.c 12 16
+++++++++++++++++++++++++
+cTags Change File(460): sql.c 192 194
+iClone File: sql.c 186 197
+++++++++++++++++++++++++
+cTags Change File(460): sql.c 196 200
+iClone File: sql.c 186 197
+++++++++++++++++++++++++
+cTags Change File(466): jscript.c 278 281
+iClone File: jscript.c 260 293
+++++++++++++++++++++++++
+cTags Change File(467): jscript.c 85 113
+iClone File: jscript.c 90 113
+++++++++++++++++++++++++
+cTags Change File(467): sql.c 220 250
+iClone File: sql.c 227 250
+++++++++++++++++++++++++
+cTags Change File(467): sql.c 430 434
+iClone File: sql.c 430 434
+++++++++++++++++++++++++
+cTags Change File(468): python.c 59 60
+iClone File: python.c 59 66
+++++++++++++++++++++++++
+cTags Change File(469): jscript.c 124 124
+iClone File: jscript.c 119 125
+++++++++++++++++++++++++
+cTags Change File(473): vim.c 53 53
+iClone File: vim.c 47 59
+++++++++++++++++++++++++
+cTags Change File(473): vim.c 57 57
+iClone File: vim.c 47 59
+++++++++++++++++++++++++
+cTags Change File(474): jscript.c 158 159
+iClone File: jscript.c 152 158
+++++++++++++++++++++++++
+cTags Change File(474): jscript.c 213 214
+iClone File: jscript.c 211 222
+++++++++++++++++++++++++
+cTags Change File(474): jscript.c 213 214
+iClone File: jscript.c 211 225
+++++++++++++++++++++++++
+cTags Change File(474): jscript.c 225 226
+iClone File: jscript.c 211 225
+++++++++++++++++++++++++
+cTags Change File(474): sql.c 275 276
+iClone File: sql.c 269 275
+++++++++++++++++++++++++
+cTags Change File(474): sql.c 314 315
+iClone File: sql.c 312 323
+++++++++++++++++++++++++
+cTags Change File(474): sql.c 314 315
+iClone File: sql.c 312 326
+++++++++++++++++++++++++
+cTags Change File(474): sql.c 326 326
+iClone File: sql.c 312 326
+++++++++++++++++++++++++
+cTags Change File(474): sql.c 806 807
+iClone File: sql.c 806 817
+++++++++++++++++++++++++
+cTags Change File(474): sql.c 839 839
+iClone File: sql.c 838 849
+++++++++++++++++++++++++
+cTags Change File(475): jscript.c 108 119
+iClone File: jscript.c 108 119
+++++++++++++++++++++++++
+cTags Change File(475): jscript.c 151 160
+iClone File: jscript.c 152 158
+++++++++++++++++++++++++
+cTags Change File(475): sql.c 268 277
+iClone File: sql.c 269 275
+++++++++++++++++++++++++
+cTags Change File(476): jscript.c 180 180
+iClone File: jscript.c 171 180
+++++++++++++++++++++++++
+cTags Change File(535): eiffel.c 269 272
+iClone File: eiffel.c 268 281
+++++++++++++++++++++++++
+cTags Change File(535): eiffel.c 274 274
+iClone File: eiffel.c 268 281
+++++++++++++++++++++++++
+cTags Change File(535): eiffel.c 276 276
+iClone File: eiffel.c 268 281
+++++++++++++++++++++++++
+cTags Change File(535): eiffel.c 278 278
+iClone File: eiffel.c 268 281
+++++++++++++++++++++++++
+cTags Change File(535): eiffel.c 280 280
+iClone File: eiffel.c 268 281
+++++++++++++++++++++++++
+cTags Change File(535): eiffel.c 398 398
+iClone File: eiffel.c 397 403
+++++++++++++++++++++++++
+cTags Change File(535): eiffel.c 400 401
+iClone File: eiffel.c 397 403
+++++++++++++++++++++++++
+cTags Change File(535): eiffel.c 403 403
+iClone File: eiffel.c 397 403
+++++++++++++++++++++++++
+cTags Change File(535): fortran.c 543 546
+iClone File: fortran.c 542 555
+++++++++++++++++++++++++
+cTags Change File(535): fortran.c 548 548
+iClone File: fortran.c 542 555
+++++++++++++++++++++++++
+cTags Change File(535): fortran.c 550 550
+iClone File: fortran.c 542 555
+++++++++++++++++++++++++
+cTags Change File(535): fortran.c 552 552
+iClone File: fortran.c 542 555
+++++++++++++++++++++++++
+cTags Change File(535): fortran.c 554 554
+iClone File: fortran.c 542 555
+++++++++++++++++++++++++
+cTags Change File(535): fortran.c 585 585
+iClone File: fortran.c 584 590
+++++++++++++++++++++++++
+cTags Change File(535): fortran.c 587 588
+iClone File: fortran.c 584 590
+++++++++++++++++++++++++
+cTags Change File(535): fortran.c 590 590
+iClone File: fortran.c 584 590
+++++++++++++++++++++++++
+cTags Change File(537): lregex.c 412 412
+iClone File: lregex.c 412 418
+++++++++++++++++++++++++
+cTags Change File(585): jscript.c 125 125
+iClone File: jscript.c 125 131
+++++++++++++++++++++++++
+cTags Change File(585): jscript.c 136 136
+iClone File: jscript.c 136 145
+++++++++++++++++++++++++
+cTags Change File(585): jscript.c 200 203
+iClone File: jscript.c 189 200
+++++++++++++++++++++++++
+cTags Change File(585): jscript.c 200 203
+iClone File: jscript.c 189 203
+++++++++++++++++++++++++
+cTags Change File(585): jscript.c 269 269
+iClone File: jscript.c 258 269
+++++++++++++++++++++++++
+cTags Change File(629): sql.c 330 330
+iClone File: sql.c 323 334
+++++++++++++++++++++++++
+cTags Change File(629): sql.c 330 330
+iClone File: sql.c 323 337
+++++++++++++++++++++++++
+cTags Change File(629): sql.c 337 337
+iClone File: sql.c 323 337
+++++++++++++++++++++++++
+cTags Change File(629): sql.c 652 652
+iClone File: sql.c 650 660
+++++++++++++++++++++++++
+cTags Change File(629): sql.c 652 652
+iClone File: sql.c 650 657
+++++++++++++++++++++++++
+cTags Change File(629): sql.c 655 655
+iClone File: sql.c 650 660
+++++++++++++++++++++++++
+cTags Change File(629): sql.c 655 655
+iClone File: sql.c 650 657
+++++++++++++++++++++++++
+cTags Change File(629): sql.c 656 656
+iClone File: sql.c 650 660
+++++++++++++++++++++++++
+cTags Change File(629): sql.c 656 656
+iClone File: sql.c 650 657
+++++++++++++++++++++++++
+cTags Change File(633): jscript.c 178 178
+iClone File: jscript.c 176 187
+++++++++++++++++++++++++
+cTags Change File(633): jscript.c 182 182
+iClone File: jscript.c 176 187
+++++++++++++++++++++++++
+cTags Change File(633): jscript.c 190 190
+iClone File: jscript.c 188 197
+++++++++++++++++++++++++
+cTags Change File(633): jscript.c 212 212
+iClone File: jscript.c 205 216
+++++++++++++++++++++++++
+cTags Change File(633): jscript.c 212 212
+iClone File: jscript.c 212 234
+++++++++++++++++++++++++
+cTags Change File(633): jscript.c 233 233
+iClone File: jscript.c 212 234
+++++++++++++++++++++++++
+cTags Change File(633): jscript.c 256 256
+iClone File: jscript.c 234 263
+++++++++++++++++++++++++
+cTags Change File(638): jscript.c 179 180
+iClone File: jscript.c 180 192
+++++++++++++++++++++++++
+cTags Change File(638): jscript.c 182 182
+iClone File: jscript.c 180 192
+++++++++++++++++++++++++
+cTags Change File(638): sql.c 300 300
+iClone File: sql.c 300 312
+++++++++++++++++++++++++
+cTags Change File(638): sql.c 302 302
+iClone File: sql.c 300 312
+++++++++++++++++++++++++
+cTags Change File(643): sql.c 259 264
+iClone File: sql.c 257 263
+++++++++++++++++++++++++
+cTags Change File(643): sql.c 442 443
+iClone File: sql.c 443 454
+++++++++++++++++++++++++
+cTags Change File(643): sql.c 445 445
+iClone File: sql.c 443 454
+++++++++++++++++++++++++
+cTags Change File(643): sql.c 447 447
+iClone File: sql.c 443 454
+++++++++++++++++++++++++
+cTags Change File(643): sql.c 449 449
+iClone File: sql.c 443 454
+++++++++++++++++++++++++
+cTags Change File(643): sql.c 451 451
+iClone File: sql.c 443 454
+++++++++++++++++++++++++
+cTags Change File(643): sql.c 454 454
+iClone File: sql.c 443 454
+++++++++++++++++++++++++
+cTags Change File(654): vhdl.c 293 293
+iClone File: vhdl.c 293 306
+++++++++++++++++++++++++
+cTags Change File(654): vhdl.c 295 295
+iClone File: vhdl.c 293 306
+++++++++++++++++++++++++
+cTags Change File(654): vhdl.c 300 301
+iClone File: vhdl.c 293 306
+++++++++++++++++++++++++
+cTags Change File(654): vhdl.c 307 307
+iClone File: vhdl.c 307 316
+++++++++++++++++++++++++
+cTags Change File(654): vhdl.c 326 327
+iClone File: vhdl.c 326 342
+++++++++++++++++++++++++
+cTags Change File(654): vhdl.c 326 327
+iClone File: vhdl.c 326 340
+++++++++++++++++++++++++
+cTags Change File(654): vhdl.c 332 333
+iClone File: vhdl.c 326 342
+++++++++++++++++++++++++
+cTags Change File(654): vhdl.c 332 333
+iClone File: vhdl.c 326 340
+++++++++++++++++++++++++
+cTags Change File(654): vhdl.c 336 341
+iClone File: vhdl.c 326 342
+++++++++++++++++++++++++
+cTags Change File(654): vhdl.c 336 341
+iClone File: vhdl.c 341 358
+++++++++++++++++++++++++
+cTags Change File(654): vhdl.c 336 341
+iClone File: vhdl.c 326 340
+++++++++++++++++++++++++
+cTags Change File(654): vhdl.c 367 367
+iClone File: vhdl.c 361 371
+++++++++++++++++++++++++
+cTags Change File(654): vhdl.c 390 390
+iClone File: vhdl.c 384 397
+++++++++++++++++++++++++
+cTags Change File(654): vhdl.c 398 399
+iClone File: vhdl.c 399 405
+++++++++++++++++++++++++
+cTags Change File(654): vhdl.c 403 403
+iClone File: vhdl.c 399 405
+++++++++++++++++++++++++
+cTags Change File(654): vhdl.c 405 406
+iClone File: vhdl.c 399 405
+++++++++++++++++++++++++
+cTags Change File(654): vhdl.c 412 412
+iClone File: vhdl.c 411 418
+++++++++++++++++++++++++
+cTags Change File(654): vhdl.c 414 416
+iClone File: vhdl.c 411 418
+++++++++++++++++++++++++
+cTags Change File(656): vhdl.c 346 346
+iClone File: vhdl.c 318 346
+++++++++++++++++++++++++
+cTags Change File(656): vhdl.c 346 346
+iClone File: vhdl.c 344 362
+++++++++++++++++++++++++
+cTags Change File(657): jscript.c 275 275
+iClone File: jscript.c 239 276
+++++++++++++++++++++++++
+cTags Change File(657): jscript.c 275 275
+iClone File: jscript.c 270 280
+++++++++++++++++++++++++
+cTags Change File(657): sql.c 433 433
+iClone File: sql.c 397 434
+++++++++++++++++++++++++
+cTags Change File(657): vhdl.c 383 383
+iClone File: vhdl.c 378 388
+++++++++++++++++++++++++
+cTags Change File(658): jscript.c 249 249
+iClone File: jscript.c 232 268
+++++++++++++++++++++++++
+cTags Change File(658): jscript.c 258 258
+iClone File: jscript.c 232 268
+++++++++++++++++++++++++
+cTags Change File(658): sql.c 370 370
+iClone File: sql.c 339 376
+++++++++++++++++++++++++
+cTags Change File(658): sql.c 407 407
+iClone File: sql.c 390 426
+++++++++++++++++++++++++
+cTags Change File(658): sql.c 416 416
+iClone File: sql.c 390 426
+++++++++++++++++++++++++
+cTags Change File(658): vhdl.c 362 362
+iClone File: vhdl.c 323 368
+++++++++++++++++++++++++
+cTags Change File(658): vhdl.c 530 530
+iClone File: vhdl.c 523 533
+++++++++++++++++++++++++
+cTags Change File(658): vhdl.c 542 542
+iClone File: vhdl.c 535 545
+++++++++++++++++++++++++
+cTags Change File(686): flex.c 511 511
+iClone File: flex.c 506 511
+++++++++++++++++++++++++
+cTags Change File(693): tex.c 65 67
+iClone File: tex.c 25 71
+++++++++++++++++++++++++
+cTags Change File(693): tex.c 65 67
+iClone File: tex.c 5 66
+++++++++++++++++++++++++
+cTags Change File(693): tex.c 110 112
+iClone File: tex.c 104 110
+++++++++++++++++++++++++
+cTags Change File(693): tex.c 110 112
+iClone File: tex.c 104 115
+++++++++++++++++++++++++
+cTags Change File(693): tex.c 110 112
+iClone File: tex.c 104 111
+++++++++++++++++++++++++
+cTags Change File(693): tex.c 121 121
+iClone File: tex.c 121 127
+++++++++++++++++++++++++
+cTags Change File(693): tex.c 132 132
+iClone File: tex.c 132 141
+++++++++++++++++++++++++
+cTags Change File(693): tex.c 132 132
+iClone File: tex.c 132 141
+++++++++++++++++++++++++
+cTags Change File(693): tex.c 230 230
+iClone File: tex.c 229 237
+++++++++++++++++++++++++
+cTags Change File(693): tex.c 230 230
+iClone File: tex.c 229 234
+++++++++++++++++++++++++
+cTags Change File(693): tex.c 235 235
+iClone File: tex.c 229 237
+++++++++++++++++++++++++
+cTags Change File(693): tex.c 238 271
+iClone File: tex.c 267 271
+++++++++++++++++++++++++
+cTags Change File(693): tex.c 238 271
+iClone File: tex.c 238 249
+++++++++++++++++++++++++
+cTags Change File(693): tex.c 238 271
+iClone File: tex.c 250 261
+++++++++++++++++++++++++
+cTags Change File(693): tex.c 238 271
+iClone File: tex.c 262 266
+++++++++++++++++++++++++
+cTags Change File(695): tex.c 24 24
+iClone File: tex.c 5 45
+++++++++++++++++++++++++
+cTags Change File(697): tex.c 24 24
+iClone File: tex.c 5 45
+++++++++++++++++++++++++
+cTags Change File(698): sql.c 313 315
+iClone File: sql.c 307 320
+++++++++++++++++++++++++
+cTags Change File(698): sql.c 386 386
+iClone File: sql.c 384 420
+++++++++++++++++++++++++
+cTags Change File(698): sql.c 386 386
+iClone File: sql.c 384 395
+++++++++++++++++++++++++
+cTags Change File(698): sql.c 386 386
+iClone File: sql.c 384 411
+++++++++++++++++++++++++
+cTags Change File(705): eiffel.c 410 410
+iClone File: eiffel.c 400 411
+++++++++++++++++++++++++
+cTags Change File(710): asp.c 51 51
+iClone File: asp.c 42 52
+++++++++++++++++++++++++
+cTags Change File(730): flex.c 46 46
+iClone File: flex.c 5 87
+++++++++++++++++++++++++
+cTags Change File(734): tex.c 26 26
+iClone File: tex.c 5 47
+++++++++++++++++++++++++
+cTags Change File(734): tex.c 36 37
+iClone File: tex.c 27 57
+++++++++++++++++++++++++
+cTags Change File(734): tex.c 36 37
+iClone File: tex.c 27 47
+++++++++++++++++++++++++
+cTags Change File(734): tex.c 36 37
+iClone File: tex.c 5 47
+++++++++++++++++++++++++
+cTags Change File(734): tex.c 41 41
+iClone File: tex.c 27 57
+++++++++++++++++++++++++
+cTags Change File(734): tex.c 41 41
+iClone File: tex.c 27 47
+++++++++++++++++++++++++
+cTags Change File(734): tex.c 41 41
+iClone File: tex.c 5 47
+++++++++++++++++++++++++
+cTags Change File(734): tex.c 44 44
+iClone File: tex.c 27 57
+++++++++++++++++++++++++
+cTags Change File(734): tex.c 44 44
+iClone File: tex.c 27 47
+++++++++++++++++++++++++
+cTags Change File(734): tex.c 44 44
+iClone File: tex.c 5 47
+++++++++++++++++++++++++
+cTags Change File(734): tex.c 47 49
+iClone File: tex.c 27 57
+++++++++++++++++++++++++
+cTags Change File(734): tex.c 47 49
+iClone File: tex.c 27 47
+++++++++++++++++++++++++
+cTags Change File(734): tex.c 47 49
+iClone File: tex.c 5 47
+++++++++++++++++++++++++
+cTags Change File(734): tex.c 52 56
+iClone File: tex.c 27 57
+++++++++++++++++++++++++
+cTags Change File(734): tex.c 183 183
+iClone File: tex.c 168 184
+++++++++++++++++++++++++
+cTags Change File(734): tex.c 183 183
+iClone File: tex.c 168 193
+++++++++++++++++++++++++
+cTags Change File(734): tex.c 183 183
+iClone File: tex.c 170 184
+++++++++++++++++++++++++
+cTags Change File(734): tex.c 183 183
+iClone File: tex.c 168 192
+++++++++++++++++++++++++
+cTags Change File(734): tex.c 185 186
+iClone File: tex.c 168 193
+++++++++++++++++++++++++
+cTags Change File(734): tex.c 185 186
+iClone File: tex.c 168 192
+++++++++++++++++++++++++
+cTags Change File(734): tex.c 189 189
+iClone File: tex.c 168 193
+++++++++++++++++++++++++
+cTags Change File(734): tex.c 189 189
+iClone File: tex.c 168 192
+++++++++++++++++++++++++
+cTags Change File(734): tex.c 192 192
+iClone File: tex.c 168 193
+++++++++++++++++++++++++
+cTags Change File(734): tex.c 192 192
+iClone File: tex.c 168 192
+++++++++++++++++++++++++
+cTags Change File(739): sql.c 357 357
+iClone File: sql.c 343 373
+++++++++++++++++++++++++
+cTags Change File(739): sql.c 357 357
+iClone File: sql.c 343 359
+++++++++++++++++++++++++
+cTags Change File(739): sql.c 357 357
+iClone File: sql.c 343 358
+++++++++++++++++++++++++
+cTags Change File(739): sql.c 357 357
+iClone File: sql.c 345 358
+++++++++++++++++++++++++
+cTags Change File(739): sql.c 357 357
+iClone File: sql.c 345 382
+++++++++++++++++++++++++
+cTags Change File(739): sql.c 357 357
+iClone File: sql.c 345 359
+++++++++++++++++++++++++
+cTags Change File(744): sql.c 374 374
+iClone File: sql.c 372 382
+++++++++++++++++++++++++
+cTags Change File(744): sql.c 374 374
+iClone File: sql.c 368 382
+++++++++++++++++++++++++
+cTags Change File(754): flex.c 43 43
+iClone File: flex.c 5 88
+++++++++++++++++++++++++
+cTags Change File(754): flex.c 46 46
+iClone File: flex.c 5 88
+++++++++++++++++++++++++
+cTags Change File(754): flex.c 78 78
+iClone File: flex.c 5 88
+++++++++++++++++++++++++
+cTags Change File(754): flex.c 344 344
+iClone File: flex.c 341 355
+++++++++++++++++++++++++
+cTags Change File(754): flex.c 383 383
+iClone File: flex.c 383 400
+++++++++++++++++++++++++
+cTags Change File(754): flex.c 388 388
+iClone File: flex.c 385 400
+++++++++++++++++++++++++
+cTags Change File(754): flex.c 388 388
+iClone File: flex.c 383 400
+++++++++++++++++++++++++
+cTags Change File(754): flex.c 390 390
+iClone File: flex.c 385 400
+++++++++++++++++++++++++
+cTags Change File(754): flex.c 390 390
+iClone File: flex.c 383 400
+++++++++++++++++++++++++
+cTags Change File(754): flex.c 398 398
+iClone File: flex.c 385 400
+++++++++++++++++++++++++
+cTags Change File(754): flex.c 398 398
+iClone File: flex.c 383 400
+++++++++++++++++++++++++
+cTags Change File(754): flex.c 400 400
+iClone File: flex.c 385 400
+++++++++++++++++++++++++
+cTags Change File(754): flex.c 400 400
+iClone File: flex.c 383 400
+++++++++++++++++++++++++
+cTags Change File(755): sql.c 497 497
+iClone File: sql.c 484 497
+++++++++++++++++++++++++
+cTags Change File(762): jscript.c 446 446
+iClone File: jscript.c 446 460
+++++++++++++++++++++++++
+cTags Change File(762): jscript.c 447 447
+iClone File: jscript.c 446 460
+++++++++++++++++++++++++
+cTags Change File(762): jscript.c 449 449
+iClone File: jscript.c 446 460
+++++++++++++++++++++++++
+cTags Change File(762): jscript.c 459 459
+iClone File: jscript.c 446 460
+++++++++++++++++++++++++
+cTags Change File(762): jscript.c 575 575
+iClone File: jscript.c 565 620

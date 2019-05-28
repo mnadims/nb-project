@@ -1,0 +1,84 @@
+Cannot read source from './d/version-4'
+
+iClones (Version: 0.2-preview, Revision: 4451)
+
+  Incremental token-based clone detection developed by the 
+  Software Engineering Group at the University of Bremen, Germany.
+  Please visit http://www.softwareclones.org for documentation.
+
+  iClones is free for personal and academic use. We explicitely 
+  prohibit any commercial use and distribution of this program.
+
+Usage: iclones [OPTIONS]
+  OPTIONS:
+    -minblock         ...  (Default: 20)
+                      Minimum length of identical token sequences that are used
+                      to merge near-miss clones. If set to 0, only identical
+                      clones are detected.
+
+    -minclone         ...  (Default: 100)
+                      Minimum length of clones measured in tokens.
+
+    -transformers     ...  (Default: all)
+                      Transformers of the token stream. Set to none to disable
+                      all transformers or pass a comma separated list of these
+                      transformers: comment, array, include, import, method
+
+    -mapping          [goede, bazrafshan]  (Default: goede)
+                      Mapping approach to map clones across versions.
+
+    -log              ...
+                      A file to log all messages to. Default: Don't log to a
+                      file.
+
+    -basepath         [absolute, relative]  (Default: absolute)
+                      How to write the basepath for all detected clones into the
+                      output file.
+
+    -latepropagation  ...
+                      Enables detection of late propagated changes. This mode
+                      causes all data to be kept in memory and thus has high
+                      memory consuption.
+
+    -language         [java, c, c++, ada, python]  (Default: java)
+                      The language of the source that are anaylzed.
+
+    -outformat        [network, none, text, rcf, rcfplus, xml, ccfl]  (Default: text)
+                      Format used for writing clone data.
+
+    -rpath            ...
+                      Relevant project of input directory.
+
+    -output           ...
+                      Destination for writing the clone data.
+
+    -input            ...
+                      Determines from where sources and change information is
+                      read.
+
+    -regex            ...
+                      File with regular expressions for modifying token
+                      sequences prior to clone detection.
+
+    -gitbranch        ...  (Default: master)
+                      Branch of the Git repository to be analyzed.
+
+    -informat         [single, directory, network, svn, git]  (Default: single)
+                      The input format of the sources. This parameter determines
+                      how the value passed to parameter 'input' is interpreted.
+                      Use 'single' for single-version clone detection and
+                      'directory' for incremental clone detection.
+
+    -until            ...
+                      Date or revision number of last revision to be analyzed.
+
+    -interval         ...
+                      Number of days between revisions(0 for each revision).
+
+    -config           ...
+                      The config file with the parameters to use. Command line
+                      arguments overwrite settings in the config file.
+
+    -since            ...
+                      Date or revision number of first revision to be analyzed.
+

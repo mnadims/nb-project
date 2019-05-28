@@ -1,0 +1,518 @@
+* INFO  [main]: 2019-01-30 08:33:03,831: Logger configured by file: E:\Research_USASK\Clone_detection_tools_compare\Running_Differnet_Tools\ConQAT\conqat-2015.2\conqat\bin\..\config\logging.properties
+
+* INFO  [main]: 2019-01-30 08:33:03,831: ConQAT 2015.2 (core 2015.2) running on Java 1.8.0_201 [Java HotSpot(TM) 64-Bit Server VM 25.201-b09]
+
+* INFO  [main]: 2019-01-30 08:33:03,847: Configuring caches from file E:\Research_USASK\Clone_detection_tools_compare\Running_Differnet_Tools\ConQAT\conqat-2015.2\conqat\bin\..\config\cache4j.config
+
+* INFO  [main]: 2019-01-30 08:33:03,878: Loading bundle org.conqat.engine.architecture 2015.2
+
+* INFO  [main]: 2019-01-30 08:33:03,894: Loading bundle org.conqat.engine.scripting 2015.2
+
+* INFO  [main]: 2019-01-30 08:33:03,925: Loading bundle org.conqat.engine.persistence 2015.2
+
+* INFO  [main]: 2019-01-30 08:33:03,940: Loading bundle org.conqat.engine.abap 2015.2
+
+* INFO  [main]: 2019-01-30 08:33:03,972: Loading bundle org.conqat.engine.self 2015.2
+
+* INFO  [main]: 2019-01-30 08:33:03,972: Loading bundle org.conqat.engine.text 2015.2
+
+* INFO  [main]: 2019-01-30 08:33:03,987: Loading bundle org.conqat.engine.bugzilla 2015.2
+
+* INFO  [main]: 2019-01-30 08:33:03,987: Loading bundle org.conqat.engine.dotnet 2015.2
+
+* INFO  [main]: 2019-01-30 08:33:04,003: Loading bundle org.conqat.engine.blocklib 2015.2
+
+* INFO  [main]: 2019-01-30 08:33:04,003: Loading bundle org.conqat.engine.sourcecode 2015.2
+
+* INFO  [main]: 2019-01-30 08:33:04,003: Loading bundle org.conqat.engine.resource 2015.2
+
+* INFO  [main]: 2019-01-30 08:33:04,019: Loading bundle org.conqat.engine.io 2015.2
+
+* INFO  [main]: 2019-01-30 08:33:04,034: Loading bundle org.conqat.engine.graph 2015.2
+
+* INFO  [main]: 2019-01-30 08:33:04,034: Loading bundle org.conqat.engine.cpp 2015.2
+
+* INFO  [main]: 2019-01-30 08:33:04,067: Loading bundle org.conqat.engine.java 2015.2
+
+* INFO  [main]: 2019-01-30 08:33:04,071: Loading bundle org.conqat.engine.code_clones 2015.2
+
+* INFO  [main]: 2019-01-30 08:33:04,084: Loading bundle org.conqat.engine.simulink 2015.2
+
+* INFO  [main]: 2019-01-30 08:33:04,087: Loading bundle org.conqat.engine.model_clones 2015.2
+
+* INFO  [main]: 2019-01-30 08:33:04,087: Loading bundle org.conqat.engine.html_presentation 2015.2
+
+* INFO  [main]: 2019-01-30 08:33:04,103: Loading bundle org.conqat.engine.commons 2015.2
+
+* INFO  [main]: 2019-01-30 08:33:04,322: ConQAT using block 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis'.
+
+* INFO  [main]: 2019-01-30 08:33:06,406: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.token-file-scope.token-element-factory (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.token-file-scope.token-element-factory)
+
+* INFO  [main]: 2019-01-30 08:33:06,406: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.token-file-scope.token-element-factory' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.token-file-scope.token-element-factory)
+
+* INFO  [main]: 2019-01-30 08:33:06,406: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.token-file-scope.boolean-default.checked-optional.parameters-present-condition (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.token-file-scope.boolean-default.checked-optional.parameters-present-condition)
+
+* INFO  [main]: 2019-01-30 08:33:06,406: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.token-file-scope.boolean-default.checked-optional.parameters-present-condition' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.token-file-scope.boolean-default.checked-optional.parameters-present-condition)
+
+* INFO  [main]: 2019-01-30 08:33:06,406: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.token-file-scope.boolean-default.boolean-constant (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.token-file-scope.boolean-default.boolean-constant)
+
+* INFO  [main]: 2019-01-30 08:33:06,406: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.token-file-scope.boolean-default.boolean-constant' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.token-file-scope.boolean-default.boolean-constant)
+
+* INFO  [main]: 2019-01-30 08:33:06,406: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.token-file-scope.boolean-default.pick-first (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.token-file-scope.boolean-default.pick-first)
+
+* INFO  [main]: 2019-01-30 08:33:06,406: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.token-file-scope.boolean-default.pick-first' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.token-file-scope.boolean-default.pick-first)
+
+* INFO  [main]: 2019-01-30 08:33:06,406: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.token-file-scope.directory-orzip-scope.zip-file-condition (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.token-file-scope.directory-orzip-scope.zip-file-condition)
+
+* INFO  [main]: 2019-01-30 08:33:06,422: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.token-file-scope.directory-orzip-scope.zip-file-condition' used 16ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.token-file-scope.directory-orzip-scope.zip-file-condition)
+
+* INFO  [main]: 2019-01-30 08:33:06,422: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.token-file-scope.directory-orzip-scope.file-system-scope (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.token-file-scope.directory-orzip-scope.file-system-scope)
+
+* INFO  [main]: 2019-01-30 08:33:06,482: Included patterns: 1 (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.token-file-scope.directory-orzip-scope.file-system-scope)
+
+* INFO  [main]: 2019-01-30 08:33:09,518: Included files: 1176 (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.token-file-scope.directory-orzip-scope.file-system-scope)
+
+* INFO  [main]: 2019-01-30 08:33:09,518: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.token-file-scope.directory-orzip-scope.file-system-scope' used 3,096ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.token-file-scope.directory-orzip-scope.file-system-scope)
+
+* INFO  [main]: 2019-01-30 08:33:09,518: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.token-file-scope.resource-builder (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.token-file-scope.resource-builder)
+
+* INFO  [main]: 2019-01-30 08:33:09,612: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.token-file-scope.resource-builder' used 94ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.token-file-scope.resource-builder)
+
+* INFO  [main]: 2019-01-30 08:33:09,612: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.token-file-scope.token-resource-selector (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.token-file-scope.token-resource-selector)
+
+* INFO  [main]: 2019-01-30 08:33:09,734: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.token-file-scope.token-resource-selector' used 122ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.token-file-scope.token-resource-selector)
+
+* INFO  [main]: 2019-01-30 08:33:09,734: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.pattern-list-def (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.pattern-list-def)
+
+* INFO  [main]: 2019-01-30 08:33:09,734: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.pattern-list-def' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.pattern-list-def)
+
+* INFO  [main]: 2019-01-30 08:33:09,734: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.java-preprocessing.ignore-pattern-list (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.java-preprocessing.ignore-pattern-list)
+
+* INFO  [main]: 2019-01-30 08:33:09,781: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.java-preprocessing.ignore-pattern-list' used 47ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.java-preprocessing.ignore-pattern-list)
+
+* INFO  [main]: 2019-01-30 08:33:09,781: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.shaped-statement-preprocessing.mixed-shaped-statement-normalization.default-configuration (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.shaped-statement-preprocessing.mixed-shaped-statement-normalization.default-configuration)
+
+* INFO  [main]: 2019-01-30 08:33:09,781: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.shaped-statement-preprocessing.mixed-shaped-statement-normalization.default-configuration' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.shaped-statement-preprocessing.mixed-shaped-statement-normalization.default-configuration)
+
+* INFO  [main]: 2019-01-30 08:33:09,781: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.shaped-statement-preprocessing.mixed-shaped-statement-normalization.conservative-configuration (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.shaped-statement-preprocessing.mixed-shaped-statement-normalization.conservative-configuration)
+
+* INFO  [main]: 2019-01-30 08:33:09,781: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.shaped-statement-preprocessing.mixed-shaped-statement-normalization.conservative-configuration' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.shaped-statement-preprocessing.mixed-shaped-statement-normalization.conservative-configuration)
+
+* INFO  [main]: 2019-01-30 08:33:09,781: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.shaped-statement-preprocessing.mixed-shaped-statement-normalization.method-aware-statement-normalization.elements (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.shaped-statement-preprocessing.mixed-shaped-statement-normalization.method-aware-statement-normalization.elements)
+
+* INFO  [main]: 2019-01-30 08:33:09,781: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.shaped-statement-preprocessing.mixed-shaped-statement-normalization.method-aware-statement-normalization.elements' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.shaped-statement-preprocessing.mixed-shaped-statement-normalization.method-aware-statement-normalization.elements)
+
+* INFO  [main]: 2019-01-30 08:33:09,781: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.shaped-statement-preprocessing.mixed-shaped-statement-normalization.method-aware-statement-normalization.tokens-unfiltered (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.shaped-statement-preprocessing.mixed-shaped-statement-normalization.method-aware-statement-normalization.tokens-unfiltered)
+
+* INFO  [main]: 2019-01-30 08:33:09,781: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.shaped-statement-preprocessing.mixed-shaped-statement-normalization.method-aware-statement-normalization.tokens-unfiltered' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.shaped-statement-preprocessing.mixed-shaped-statement-normalization.method-aware-statement-normalization.tokens-unfiltered)
+
+* INFO  [main]: 2019-01-30 08:33:09,781: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.shaped-statement-preprocessing.mixed-shaped-statement-normalization.method-aware-statement-normalization.tokens (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.shaped-statement-preprocessing.mixed-shaped-statement-normalization.method-aware-statement-normalization.tokens)
+
+* INFO  [main]: 2019-01-30 08:33:09,797: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.shaped-statement-preprocessing.mixed-shaped-statement-normalization.method-aware-statement-normalization.tokens' used 16ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.shaped-statement-preprocessing.mixed-shaped-statement-normalization.method-aware-statement-normalization.tokens)
+
+* INFO  [main]: 2019-01-30 08:33:09,797: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.shaped-statement-preprocessing.mixed-shaped-statement-normalization.method-aware-statement-normalization.method-shaper (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.shaped-statement-preprocessing.mixed-shaped-statement-normalization.method-aware-statement-normalization.method-shaper)
+
+* INFO  [main]: 2019-01-30 08:33:09,797: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.shaped-statement-preprocessing.mixed-shaped-statement-normalization.method-aware-statement-normalization.method-shaper' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.shaped-statement-preprocessing.mixed-shaped-statement-normalization.method-aware-statement-normalization.method-shaper)
+
+* INFO  [main]: 2019-01-30 08:33:09,797: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.shaped-statement-preprocessing.mixed-shaped-statement-normalization.method-aware-statement-normalization.normalization (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.shaped-statement-preprocessing.mixed-shaped-statement-normalization.method-aware-statement-normalization.normalization)
+
+* INFO  [main]: 2019-01-30 08:33:09,828: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.shaped-statement-preprocessing.mixed-shaped-statement-normalization.method-aware-statement-normalization.normalization' used 31ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.shaped-statement-preprocessing.mixed-shaped-statement-normalization.method-aware-statement-normalization.normalization)
+
+* INFO  [main]: 2019-01-30 08:33:09,828: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.shaped-statement-preprocessing.mixed-shaped-statement-normalization.regex-shaper (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.shaped-statement-preprocessing.mixed-shaped-statement-normalization.regex-shaper)
+
+* INFO  [main]: 2019-01-30 08:33:09,828: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.shaped-statement-preprocessing.mixed-shaped-statement-normalization.regex-shaper' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.shaped-statement-preprocessing.mixed-shaped-statement-normalization.regex-shaper)
+
+* INFO  [main]: 2019-01-30 08:33:09,828: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.shaped-statement-preprocessing.input-classification.region-ignore-marker.ignore-patterns (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.shaped-statement-preprocessing.input-classification.region-ignore-marker.ignore-patterns)
+
+* INFO  [main]: 2019-01-30 08:33:09,828: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.shaped-statement-preprocessing.input-classification.region-ignore-marker.ignore-patterns' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.shaped-statement-preprocessing.input-classification.region-ignore-marker.ignore-patterns)
+
+* INFO  [main]: 2019-01-30 08:33:09,828: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.shaped-statement-preprocessing.input-classification.region-ignore-marker.filtered-scope (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.shaped-statement-preprocessing.input-classification.region-ignore-marker.filtered-scope)
+
+* INFO  [main]: 2019-01-30 08:33:13,872: Element content regions: 5611 (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.shaped-statement-preprocessing.input-classification.region-ignore-marker.filtered-scope)
+
+* INFO  [main]: 2019-01-30 08:33:13,872: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.shaped-statement-preprocessing.input-classification.region-ignore-marker.filtered-scope' used 4,044ms and 5,632kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.shaped-statement-preprocessing.input-classification.region-ignore-marker.filtered-scope)
+
+* INFO  [main]: 2019-01-30 08:33:13,872: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.shaped-statement-preprocessing.input-classification.generated-code-marker2.generated-code-patterns (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.shaped-statement-preprocessing.input-classification.generated-code-marker2.generated-code-patterns)
+
+* INFO  [main]: 2019-01-30 08:33:13,872: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.shaped-statement-preprocessing.input-classification.generated-code-marker2.generated-code-patterns' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.shaped-statement-preprocessing.input-classification.generated-code-marker2.generated-code-patterns)
+
+* INFO  [main]: 2019-01-30 08:33:13,872: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.shaped-statement-preprocessing.input-classification.generated-code-marker2.generated-code-marker (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.shaped-statement-preprocessing.input-classification.generated-code-marker2.generated-code-marker)
+
+* INFO  [main]: 2019-01-30 08:33:13,874: Marked as generated files: 0 (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.shaped-statement-preprocessing.input-classification.generated-code-marker2.generated-code-marker)
+
+* INFO  [main]: 2019-01-30 08:33:13,874: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.shaped-statement-preprocessing.input-classification.generated-code-marker2.generated-code-marker' used 2ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.shaped-statement-preprocessing.input-classification.generated-code-marker2.generated-code-marker)
+
+* INFO  [main]: 2019-01-30 08:33:13,874: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.shaped-statement-preprocessing.input-classification.repetitive-statements-region-marker (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.shaped-statement-preprocessing.input-classification.repetitive-statements-region-marker)
+
+* INFO  [main]: 2019-01-30 08:33:15,637: Element content regions: 2211 (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.shaped-statement-preprocessing.input-classification.repetitive-statements-region-marker)
+
+* INFO  [main]: 2019-01-30 08:33:15,637: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.shaped-statement-preprocessing.input-classification.repetitive-statements-region-marker' used 1,762ms and 76,800kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.shaped-statement-preprocessing.input-classification.repetitive-statements-region-marker)
+
+* INFO  [main]: 2019-01-30 08:33:15,637: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.non-overlapping-constraint (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.non-overlapping-constraint)
+
+* INFO  [main]: 2019-01-30 08:33:15,637: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.non-overlapping-constraint' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.non-overlapping-constraint)
+
+* INFO  [main]: 2019-01-30 08:33:15,637: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.gap-ratio-constraint (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.gap-ratio-constraint)
+
+* INFO  [main]: 2019-01-30 08:33:15,637: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.gap-ratio-constraint' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.gap-ratio-constraint)
+
+* INFO  [main]: 2019-01-30 08:33:15,637: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.gapped-clone-detector (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.gapped-clone-detector)
+
+* INFO  [main]: 2019-01-30 08:33:16,938: Unit drain: 1301 ms (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.gapped-clone-detector)
+
+* INFO  [main]: 2019-01-30 08:33:29,888: # Units: 131535 (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.gapped-clone-detector)
+
+* INFO  [main]: 2019-01-30 08:33:29,888: # Clones: 21504 (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.gapped-clone-detector)
+
+* INFO  [main]: 2019-01-30 08:33:29,919: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.gapped-clone-detector' used 14,282ms and 92,160kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.gapped-clone-detector)
+
+* INFO  [main]: 2019-01-30 08:33:29,919: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.clone-class-merger (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.clone-class-merger)
+
+* INFO  [main]: 2019-01-30 08:33:29,919: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.clone-class-merger' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.clone-class-merger)
+
+* INFO  [main]: 2019-01-30 08:33:29,919: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.duplicate-gap-filter (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.duplicate-gap-filter)
+
+* INFO  [main]: 2019-01-30 08:33:29,934: Removed 140 from 3774 clone classes, 3634 clone classes left. (Removed 1051 from 19885 clones, 18834 clones left.) (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.duplicate-gap-filter)
+
+* INFO  [main]: 2019-01-30 08:33:29,934: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.duplicate-gap-filter' used 15ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.duplicate-gap-filter)
+
+* INFO  [main]: 2019-01-30 08:33:29,934: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.black-list-filter (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.black-list-filter)
+
+* INFO  [main]: 2019-01-30 08:33:29,934: Removed 0 from 3634 clone classes, 3634 clone classes left. (Removed 0 from 18834 clones, 18834 clones left.) (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.black-list-filter)
+
+* INFO  [main]: 2019-01-30 08:33:29,934: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.black-list-filter' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.java-gapped-clone-detection.std-gapped-clone-detection.black-list-filter)
+
+* INFO  [main]: 2019-01-30 08:33:29,966: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.xmloutput (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.xmloutput)
+
+* INFO  [main]: 2019-01-30 08:33:30,719: Clone classes: 3634 (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.xmloutput)
+
+* INFO  [main]: 2019-01-30 08:33:30,719: Clones: 18834 (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.xmloutput)
+
+* INFO  [main]: 2019-01-30 08:33:30,719: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.xmloutput' used 753ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.xmloutput)
+
+* INFO  [main]: 2019-01-30 08:33:30,719: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.file-link-layouter (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.file-link-layouter)
+
+* INFO  [main]: 2019-01-30 08:33:30,719: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.file-link-layouter' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.file-link-layouter)
+
+* INFO  [main]: 2019-01-30 08:33:30,734: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.scope-delta.scope-delta.modifiaction-key.string-constant (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.scope-delta.scope-delta.modifiaction-key.string-constant)
+
+* INFO  [main]: 2019-01-30 08:33:30,734: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.scope-delta.scope-delta.modifiaction-key.string-constant' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.scope-delta.scope-delta.modifiaction-key.string-constant)
+
+* INFO  [main]: 2019-01-30 08:33:30,734: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.scope-delta.scope-delta.modifiaction-key.checked-optional.parameters-present-condition (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.scope-delta.scope-delta.modifiaction-key.checked-optional.parameters-present-condition)
+
+* INFO  [main]: 2019-01-30 08:33:30,734: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.scope-delta.scope-delta.modifiaction-key.checked-optional.parameters-present-condition' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.scope-delta.scope-delta.modifiaction-key.checked-optional.parameters-present-condition)
+
+* INFO  [main]: 2019-01-30 08:33:30,734: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.scope-delta.scope-delta.modifiaction-key.pick-first (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.scope-delta.scope-delta.modifiaction-key.pick-first)
+
+* INFO  [main]: 2019-01-30 08:33:30,734: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.scope-delta.scope-delta.modifiaction-key.pick-first' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.scope-delta.scope-delta.modifiaction-key.pick-first)
+
+* INFO  [main]: 2019-01-30 08:33:30,734: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.scope-delta.scope-delta.boolean-default.checked-optional.parameters-present-condition (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.scope-delta.scope-delta.boolean-default.checked-optional.parameters-present-condition)
+
+* INFO  [main]: 2019-01-30 08:33:30,734: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.scope-delta.scope-delta.boolean-default.checked-optional.parameters-present-condition' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.scope-delta.scope-delta.boolean-default.checked-optional.parameters-present-condition)
+
+* INFO  [main]: 2019-01-30 08:33:30,734: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.scope-delta.scope-delta.boolean-default.boolean-constant (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.scope-delta.scope-delta.boolean-default.boolean-constant)
+
+* INFO  [main]: 2019-01-30 08:33:30,734: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.scope-delta.scope-delta.boolean-default.boolean-constant' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.scope-delta.scope-delta.boolean-default.boolean-constant)
+
+* INFO  [main]: 2019-01-30 08:33:30,734: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.scope-delta.scope-delta.boolean-default.pick-first (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.scope-delta.scope-delta.boolean-default.pick-first)
+
+* INFO  [main]: 2019-01-30 08:33:30,734: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.scope-delta.scope-delta.boolean-default.pick-first' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.scope-delta.scope-delta.boolean-default.pick-first)
+
+* INFO  [main]: 2019-01-30 08:33:30,734: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.scope-delta.scope-delta.boolean-value-filter (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.scope-delta.scope-delta.boolean-value-filter)
+
+* INFO  [main]: 2019-01-30 08:33:30,734: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.scope-delta.scope-delta.boolean-value-filter' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.scope-delta.scope-delta.boolean-value-filter)
+
+* INFO  [main]: 2019-01-30 08:33:30,734: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.scope-delta.empty-container-pruner (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.scope-delta.empty-container-pruner)
+
+* INFO  [main]: 2019-01-30 08:33:30,734: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.scope-delta.empty-container-pruner' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.scope-delta.empty-container-pruner)
+
+* INFO  [main]: 2019-01-30 08:33:30,734: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.filename-extractor (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.filename-extractor)
+
+* INFO  [main]: 2019-01-30 08:33:30,734: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.filename-extractor' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.filename-extractor)
+
+* INFO  [main]: 2019-01-30 08:33:30,734: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.display-list-editor (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.display-list-editor)
+
+* INFO  [main]: 2019-01-30 08:33:30,734: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.display-list-editor' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.display-list-editor)
+
+* INFO  [main]: 2019-01-30 08:33:30,734: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.rating-annotator (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.rating-annotator)
+
+* INFO  [main]: 2019-01-30 08:33:30,734: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.rating-annotator' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.rating-annotator)
+
+* INFO  [main]: 2019-01-30 08:33:30,734: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.rating-aggregator (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.rating-aggregator)
+
+* INFO  [main]: 2019-01-30 08:33:30,734: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.rating-aggregator' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.rating-aggregator)
+
+* INFO  [main]: 2019-01-30 08:33:30,734: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.loc-annotator (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.loc-annotator)
+
+* INFO  [main]: 2019-01-30 08:33:30,765: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.loc-annotator' used 31ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.loc-annotator)
+
+* INFO  [main]: 2019-01-30 08:33:30,765: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.loc-aggregator (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.loc-aggregator)
+
+* INFO  [main]: 2019-01-30 08:33:30,765: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.loc-aggregator' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.loc-aggregator)
+
+* INFO  [main]: 2019-01-30 08:33:30,765: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.cloneloc-annotator (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.cloneloc-annotator)
+
+* INFO  [main]: 2019-01-30 08:33:30,781: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.cloneloc-annotator' used 16ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.cloneloc-annotator)
+
+* INFO  [main]: 2019-01-30 08:33:30,781: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.cloneloc-aggregator (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.cloneloc-aggregator)
+
+* INFO  [main]: 2019-01-30 08:33:30,781: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.cloneloc-aggregator' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.cloneloc-aggregator)
+
+* INFO  [main]: 2019-01-30 08:33:30,781: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.loccoverage-annotator (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.loccoverage-annotator)
+
+* INFO  [main]: 2019-01-30 08:33:30,797: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.loccoverage-annotator' used 16ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.loccoverage-annotator)
+
+* INFO  [main]: 2019-01-30 08:33:30,797: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.units-aggregator (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.units-aggregator)
+
+* INFO  [main]: 2019-01-30 08:33:30,797: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.units-aggregator' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.units-aggregator)
+
+* INFO  [main]: 2019-01-30 08:33:30,797: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.cloneunit-annotator (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.cloneunit-annotator)
+
+* INFO  [main]: 2019-01-30 08:33:30,797: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.cloneunit-annotator' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.cloneunit-annotator)
+
+* INFO  [main]: 2019-01-30 08:33:30,797: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.cloneunit-aggregator (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.cloneunit-aggregator)
+
+* INFO  [main]: 2019-01-30 08:33:30,797: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.cloneunit-aggregator' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.cloneunit-aggregator)
+
+* INFO  [main]: 2019-01-30 08:33:30,797: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.rfss-annotator (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.rfss-annotator)
+
+* INFO  [main]: 2019-01-30 08:33:30,843: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.rfss-annotator' used 46ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.rfss-annotator)
+
+* INFO  [main]: 2019-01-30 08:33:30,843: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.sum-aggregator (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.sum-aggregator)
+
+* INFO  [main]: 2019-01-30 08:33:30,843: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.sum-aggregator' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.sum-aggregator)
+
+* INFO  [main]: 2019-01-30 08:33:30,843: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.unitcoverage-annotator (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.unitcoverage-annotator)
+
+* INFO  [main]: 2019-01-30 08:33:30,843: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.unitcoverage-annotator' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.unitcoverage-annotator)
+
+* INFO  [main]: 2019-01-30 08:33:30,843: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.description-annotator (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.description-annotator)
+
+* INFO  [main]: 2019-01-30 08:33:30,906: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.description-annotator' used 63ms and 1,024kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.description-annotator)
+
+* INFO  [main]: 2019-01-30 08:33:30,906: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.clone-count-annotator (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.clone-count-annotator)
+
+* INFO  [main]: 2019-01-30 08:33:30,922: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.clone-count-annotator' used 16ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.clone-count-annotator)
+
+* INFO  [main]: 2019-01-30 08:33:30,922: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.clone-count-aggregator (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.clone-count-aggregator)
+
+* INFO  [main]: 2019-01-30 08:33:30,922: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.clone-count-aggregator' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.metric-annotation.clone-count-aggregator)
+
+* INFO  [main]: 2019-01-30 08:33:30,922: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.assessment-filtered (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.assessment-filtered)
+
+* INFO  [main]: 2019-01-30 08:33:30,937: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.assessment-filtered' used 15ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.assessment-filtered)
+
+* INFO  [main]: 2019-01-30 08:33:30,937: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.leaf-filtered (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.leaf-filtered)
+
+* INFO  [main]: 2019-01-30 08:33:30,937: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.leaf-filtered' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.leaf-filtered)
+
+* INFO  [main]: 2019-01-30 08:33:30,937: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.display-list-editor (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.display-list-editor)
+
+* INFO  [main]: 2019-01-30 08:33:30,937: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.display-list-editor' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.display-list-editor)
+
+* INFO  [main]: 2019-01-30 08:33:30,937: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage-list (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage-list)
+
+* INFO  [main]: 2019-01-30 08:33:31,000: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage-list' used 63ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage-list)
+
+* INFO  [main]: 2019-01-30 08:33:31,000: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.html-cloneclasses-list-volume.cloneclasses-list (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.html-cloneclasses-list-volume.cloneclasses-list)
+
+* INFO  [main]: 2019-01-30 08:33:31,055: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.html-cloneclasses-list-volume.cloneclasses-list' used 55ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.html-cloneclasses-list-volume.cloneclasses-list)
+
+* INFO  [main]: 2019-01-30 08:33:31,055: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.html-cloneclasses-list-volume.html-cloneclasses-list (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.html-cloneclasses-list-volume.html-cloneclasses-list)
+
+* INFO  [main]: 2019-01-30 08:33:31,180: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.html-cloneclasses-list-volume.html-cloneclasses-list' used 125ms and 512kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.html-cloneclasses-list-volume.html-cloneclasses-list)
+
+* INFO  [main]: 2019-01-30 08:33:31,180: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.html-cloneclasses-list-normalizedlength.cloneclasses-list (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.html-cloneclasses-list-normalizedlength.cloneclasses-list)
+
+* INFO  [main]: 2019-01-30 08:33:31,195: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.html-cloneclasses-list-normalizedlength.cloneclasses-list' used 15ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.html-cloneclasses-list-normalizedlength.cloneclasses-list)
+
+* INFO  [main]: 2019-01-30 08:33:31,195: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.html-cloneclasses-list-normalizedlength.html-cloneclasses-list (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.html-cloneclasses-list-normalizedlength.html-cloneclasses-list)
+
+* INFO  [main]: 2019-01-30 08:33:31,336: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.html-cloneclasses-list-normalizedlength.html-cloneclasses-list' used 141ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.html-cloneclasses-list-normalizedlength.html-cloneclasses-list)
+
+* INFO  [main]: 2019-01-30 08:33:31,336: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.html-cloneclasses-list-cardinality.cloneclasses-list (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.html-cloneclasses-list-cardinality.cloneclasses-list)
+
+* INFO  [main]: 2019-01-30 08:33:31,336: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.html-cloneclasses-list-cardinality.cloneclasses-list' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.html-cloneclasses-list-cardinality.cloneclasses-list)
+
+* INFO  [main]: 2019-01-30 08:33:31,336: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.html-cloneclasses-list-cardinality.html-cloneclasses-list (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.html-cloneclasses-list-cardinality.html-cloneclasses-list)
+
+* INFO  [main]: 2019-01-30 08:33:31,455: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.html-cloneclasses-list-cardinality.html-cloneclasses-list' used 119ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.html-cloneclasses-list-cardinality.html-cloneclasses-list)
+
+* INFO  [main]: 2019-01-30 08:33:31,455: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.filename-extractor (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.filename-extractor)
+
+* INFO  [main]: 2019-01-30 08:33:31,456: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.filename-extractor' used 1ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.filename-extractor)
+
+* INFO  [main]: 2019-01-30 08:33:31,456: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.display-list-editor (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.display-list-editor)
+
+* INFO  [main]: 2019-01-30 08:33:31,456: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.display-list-editor' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.display-list-editor)
+
+* INFO  [main]: 2019-01-30 08:33:31,456: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.rating-annotator (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.rating-annotator)
+
+* INFO  [main]: 2019-01-30 08:33:31,459: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.rating-annotator' used 3ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.rating-annotator)
+
+* INFO  [main]: 2019-01-30 08:33:31,459: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.rating-aggregator (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.rating-aggregator)
+
+* INFO  [main]: 2019-01-30 08:33:31,459: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.rating-aggregator' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.rating-aggregator)
+
+* INFO  [main]: 2019-01-30 08:33:31,459: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.loc-annotator (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.loc-annotator)
+
+* INFO  [main]: 2019-01-30 08:33:31,480: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.loc-annotator' used 21ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.loc-annotator)
+
+* INFO  [main]: 2019-01-30 08:33:31,480: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.loc-aggregator (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.loc-aggregator)
+
+* INFO  [main]: 2019-01-30 08:33:31,480: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.loc-aggregator' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.loc-aggregator)
+
+* INFO  [main]: 2019-01-30 08:33:31,480: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.cloneloc-annotator (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.cloneloc-annotator)
+
+* INFO  [main]: 2019-01-30 08:33:31,491: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.cloneloc-annotator' used 11ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.cloneloc-annotator)
+
+* INFO  [main]: 2019-01-30 08:33:31,491: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.cloneloc-aggregator (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.cloneloc-aggregator)
+
+* INFO  [main]: 2019-01-30 08:33:31,491: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.cloneloc-aggregator' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.cloneloc-aggregator)
+
+* INFO  [main]: 2019-01-30 08:33:31,491: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.loccoverage-annotator (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.loccoverage-annotator)
+
+* INFO  [main]: 2019-01-30 08:33:31,492: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.loccoverage-annotator' used 1ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.loccoverage-annotator)
+
+* INFO  [main]: 2019-01-30 08:33:31,492: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.units-aggregator (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.units-aggregator)
+
+* INFO  [main]: 2019-01-30 08:33:31,493: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.units-aggregator' used 1ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.units-aggregator)
+
+* INFO  [main]: 2019-01-30 08:33:31,493: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.cloneunit-annotator (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.cloneunit-annotator)
+
+* INFO  [main]: 2019-01-30 08:33:31,497: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.cloneunit-annotator' used 4ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.cloneunit-annotator)
+
+* INFO  [main]: 2019-01-30 08:33:31,497: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.cloneunit-aggregator (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.cloneunit-aggregator)
+
+* INFO  [main]: 2019-01-30 08:33:31,497: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.cloneunit-aggregator' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.cloneunit-aggregator)
+
+* INFO  [main]: 2019-01-30 08:33:31,497: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.rfss-annotator (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.rfss-annotator)
+
+* INFO  [main]: 2019-01-30 08:33:31,517: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.rfss-annotator' used 20ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.rfss-annotator)
+
+* INFO  [main]: 2019-01-30 08:33:31,517: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.sum-aggregator (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.sum-aggregator)
+
+* INFO  [main]: 2019-01-30 08:33:31,517: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.sum-aggregator' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.sum-aggregator)
+
+* INFO  [main]: 2019-01-30 08:33:31,517: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.unitcoverage-annotator (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.unitcoverage-annotator)
+
+* INFO  [main]: 2019-01-30 08:33:31,518: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.unitcoverage-annotator' used 1ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.unitcoverage-annotator)
+
+* INFO  [main]: 2019-01-30 08:33:31,518: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.description-annotator (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.description-annotator)
+
+* INFO  [main]: 2019-01-30 08:33:31,546: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.description-annotator' used 28ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.description-annotator)
+
+* INFO  [main]: 2019-01-30 08:33:31,546: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.clone-count-annotator (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.clone-count-annotator)
+
+* INFO  [main]: 2019-01-30 08:33:31,546: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.clone-count-annotator' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.clone-count-annotator)
+
+* INFO  [main]: 2019-01-30 08:33:31,546: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.clone-count-aggregator (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.clone-count-aggregator)
+
+* INFO  [main]: 2019-01-30 08:33:31,546: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.clone-count-aggregator' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.metric-annotation.clone-count-aggregator)
+
+* INFO  [main]: 2019-01-30 08:33:31,561: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.coverage-colorized (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.coverage-colorized)
+
+* INFO  [main]: 2019-01-30 08:33:31,593: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.coverage-colorized' used 32ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.coverage-colorized)
+
+* INFO  [main]: 2019-01-30 08:33:31,593: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.key-value-predicate (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.key-value-predicate)
+
+* INFO  [main]: 2019-01-30 08:33:31,593: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.key-value-predicate' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.key-value-predicate)
+
+* INFO  [main]: 2019-01-30 08:33:31,593: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.fixed-value-colorizer (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.fixed-value-colorizer)
+
+* INFO  [main]: 2019-01-30 08:33:31,593: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.fixed-value-colorizer' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.fixed-value-colorizer)
+
+* INFO  [main]: 2019-01-30 08:33:31,593: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.diag (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.diag)
+
+* INFO  [main]: 2019-01-30 08:33:31,593: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.diag' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.diag)
+
+* INFO  [main]: 2019-01-30 08:33:31,593: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.test-pattern (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.test-pattern)
+
+* INFO  [main]: 2019-01-30 08:33:31,593: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.test-pattern' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.test-pattern)
+
+* INFO  [main]: 2019-01-30 08:33:31,593: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.unmodified-hatcher.modifiaction-key.string-constant (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.unmodified-hatcher.modifiaction-key.string-constant)
+
+* INFO  [main]: 2019-01-30 08:33:31,593: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.unmodified-hatcher.modifiaction-key.string-constant' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.unmodified-hatcher.modifiaction-key.string-constant)
+
+* INFO  [main]: 2019-01-30 08:33:31,593: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.unmodified-hatcher.modifiaction-key.checked-optional.parameters-present-condition (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.unmodified-hatcher.modifiaction-key.checked-optional.parameters-present-condition)
+
+* INFO  [main]: 2019-01-30 08:33:31,593: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.unmodified-hatcher.modifiaction-key.checked-optional.parameters-present-condition' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.unmodified-hatcher.modifiaction-key.checked-optional.parameters-present-condition)
+
+* INFO  [main]: 2019-01-30 08:33:31,593: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.unmodified-hatcher.modifiaction-key.pick-first (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.unmodified-hatcher.modifiaction-key.pick-first)
+
+* INFO  [main]: 2019-01-30 08:33:31,593: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.unmodified-hatcher.modifiaction-key.pick-first' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.unmodified-hatcher.modifiaction-key.pick-first)
+
+* INFO  [main]: 2019-01-30 08:33:31,593: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.unmodified-hatcher.diagonal-stripe-pattern (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.unmodified-hatcher.diagonal-stripe-pattern)
+
+* INFO  [main]: 2019-01-30 08:33:31,593: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.unmodified-hatcher.diagonal-stripe-pattern' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.unmodified-hatcher.diagonal-stripe-pattern)
+
+* INFO  [main]: 2019-01-30 08:33:31,593: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.unmodified-hatcher.constant-pattern-assigner (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.unmodified-hatcher.constant-pattern-assigner)
+
+* INFO  [main]: 2019-01-30 08:33:31,593: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.unmodified-hatcher.constant-pattern-assigner' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.unmodified-hatcher.constant-pattern-assigner)
+
+* INFO  [main]: 2019-01-30 08:33:31,593: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.coverage-map.boolean-default.checked-optional.parameters-present-condition (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.coverage-map.boolean-default.checked-optional.parameters-present-condition)
+
+* INFO  [main]: 2019-01-30 08:33:31,593: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.coverage-map.boolean-default.checked-optional.parameters-present-condition' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.coverage-map.boolean-default.checked-optional.parameters-present-condition)
+
+* INFO  [main]: 2019-01-30 08:33:31,593: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.coverage-map.boolean-default.checked-optional.optional (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.coverage-map.boolean-default.checked-optional.optional)
+
+* INFO  [main]: 2019-01-30 08:33:31,593: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.coverage-map.boolean-default.checked-optional.optional' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.coverage-map.boolean-default.checked-optional.optional)
+
+* INFO  [main]: 2019-01-30 08:33:31,593: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.coverage-map.boolean-default.boolean-constant (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.coverage-map.boolean-default.boolean-constant)
+
+* INFO  [main]: 2019-01-30 08:33:31,593: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.coverage-map.boolean-default.boolean-constant' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.coverage-map.boolean-default.boolean-constant)
+
+* INFO  [main]: 2019-01-30 08:33:31,593: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.coverage-map.boolean-default.pick-first (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.coverage-map.boolean-default.pick-first)
+
+* INFO  [main]: 2019-01-30 08:33:31,593: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.coverage-map.boolean-default.pick-first' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.coverage-map.boolean-default.pick-first)
+
+* INFO  [main]: 2019-01-30 08:33:31,593: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.coverage-map.double-default.double-constant (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.coverage-map.double-default.double-constant)
+
+* INFO  [main]: 2019-01-30 08:33:31,593: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.coverage-map.double-default.double-constant' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.coverage-map.double-default.double-constant)
+
+* INFO  [main]: 2019-01-30 08:33:31,593: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.coverage-map.double-default.checked-optional.parameters-present-condition (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.coverage-map.double-default.checked-optional.parameters-present-condition)
+
+* INFO  [main]: 2019-01-30 08:33:31,593: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.coverage-map.double-default.checked-optional.parameters-present-condition' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.coverage-map.double-default.checked-optional.parameters-present-condition)
+
+* INFO  [main]: 2019-01-30 08:33:31,593: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.coverage-map.double-default.pick-first (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.coverage-map.double-default.pick-first)
+
+* INFO  [main]: 2019-01-30 08:33:31,593: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.coverage-map.double-default.pick-first' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.coverage-map.double-default.pick-first)
+
+* INFO  [main]: 2019-01-30 08:33:31,593: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.coverage-map.tree-map-creator (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.coverage-map.tree-map-creator)
+
+* INFO  [main]: 2019-01-30 08:33:31,640: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.coverage-map.tree-map-creator' used 47ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.coverage-map.tree-map-creator)
+
+* INFO  [main]: 2019-01-30 08:33:31,640: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.coverage-map.html-image-renderer (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.coverage-map.html-image-renderer)
+
+* INFO  [main]: 2019-01-30 08:33:31,640: Writing E:\conqat_out\conqat_jedit_output\version-4001\images\[000006].png (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.coverage-map.html-image-renderer)
+
+* INFO  [main]: 2019-01-30 08:33:32,340: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.coverage-map.html-image-renderer' used 700ms and 1,536kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage.coverage-map.html-image-renderer)
+
+* INFO  [main]: 2019-01-30 08:33:32,340: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage-result (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage-result)
+
+* INFO  [main]: 2019-01-30 08:33:32,340: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage-result' used 0ms and 0kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.java-gapped-clone-chain.light-weight-output.coverage-result)
+
+* INFO  [main]: 2019-01-30 08:33:32,340: Executing processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.presentation (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.presentation)
+
+* INFO  [main]: 2019-01-30 08:33:32,472: Compiling JavaScript. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.presentation)
+
+* INFO  [main]: 2019-01-30 08:33:33,341: Preparation of scripts took 0.869 seconds (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.presentation)
+
+* INFO  [main]: 2019-01-30 08:33:33,341: Compiling 137 JavaScript files. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.presentation)
+
+* INFO  [main]: 2019-01-30 08:33:33,357: Reusing cached JavaScript, skipping compilation. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.presentation)
+
+* INFO  [main]: 2019-01-30 08:33:33,357: Compilation/loading of script took 0.016 seconds and produced a script of size 715652 (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.presentation)
+
+* INFO  [main]: 2019-01-30 08:33:33,596: Processor 'org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.presentation' used 1,256ms and 42,496kB. (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.presentation)
+
+* INFO  [main]: 2019-01-30 08:33:33,596: Executing shutdown hook for processor: org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.presentation (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.presentation)
+
+* INFO  [main]: 2019-01-30 08:33:34,056: Output written to: E:\conqat_out\conqat_jedit_output\version-4001\index.html (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.presentation)
+
+* INFO  [main]: 2019-01-30 08:33:34,056: Execution of shutdown hook completed for org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.presentation (org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis.presentation)
+
+* INFO  [main]: 2019-01-30 08:33:34,056: Max memory: 459,776kB.
+
+* INFO  [main]: 2019-01-30 08:33:34,056: Total time: 29s
+

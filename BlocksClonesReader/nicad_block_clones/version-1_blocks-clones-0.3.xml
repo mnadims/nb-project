@@ -1,0 +1,6 @@
+<clones>
+<systeminfo  system="version-1" granularity="blocks" threshold="30%" minlines="5" maxlines="500"/>
+<classinfo npcs="0" nclones="0" nfragments="0" npairs="0" nclasses="0"/>
+<runinfo ncompares="0" cputime="4"/>
+
+</clones>
